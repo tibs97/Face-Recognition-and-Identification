@@ -11,3 +11,7 @@ A pickle file is already uploaded trained with dataset also upoaded.
 If encodings.pickle exists then face_capture can be run.
 
 It will capture video from primary camera and detect faces logging entering and leaving time. 
+
+
+
+watch video here for demonstration and explanation - https://www.youtube.com/watch?v=eZutwIVuSeo&t=8s
